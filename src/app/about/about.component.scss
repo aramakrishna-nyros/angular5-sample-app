@@ -1,0 +1,20 @@
+.logo-small {
+      font-size: 50px;
+  }
+  .logo {
+      font-size: 200px;
+      margin-top: 34px;
+  }
+
+  footer .glyphicon {
+      font-size: 20px;
+      margin-bottom: 20px;
+      color: #f4511e;
+  }
+  .slide {
+      animation-name: slide;
+      -webkit-animation-name: slide;
+      animation-duration: 1s;
+      -webkit-animation-duration: 1s;
+      visibility: visible;
+  }
